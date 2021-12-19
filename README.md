@@ -3,7 +3,7 @@
 
 #Sample email body-
 {
-      "to" : "srimanta@gmail.com"
+      "to" : "srimanta@gmail.com",
       "email_body" : "Hi there........"
 }
 
